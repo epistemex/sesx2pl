@@ -1,0 +1,21 @@
+{
+  "name": "sesx2pl",
+  "version": "0.1.0-alpha",
+  "description": "Converts a Adobe Audition project to a m3u or cue playlist file.",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Adobe",
+    "Audition",
+    "m3u",
+    "cue",
+    "playlist"
+  ],
+  "author": "epistemex",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.2.0"
+  }
+}
