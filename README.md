@@ -3,6 +3,10 @@ sesx2pl
 
 Converts a Adobe Audition project to a m3u or cue playlist file.
 
+This was made for an internal need. It's provided AS-IS.
+
+Note that it may not be compatible with newer SESX file versions.
+
 _Help keep the project alive by supporting the developer:_
 
 [![PayPalMe](https://github.com/epistemex/transformation-matrix-js/assets/70324091/04203267-58f0-402b-9589-e2dee6e7c510)](https://paypal.me/KenNil)
