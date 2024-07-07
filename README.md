@@ -12,7 +12,7 @@ Install
 
 Using NPM:
 
-    npm i -g epistmex/sesx2pl
+    npm i -g https://github.com/epistemex/sesx2pl
 
 Usage
 -----
